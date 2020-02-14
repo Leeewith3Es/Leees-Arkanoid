@@ -46,3 +46,13 @@ F:\Computer Science\SP1\Final project\Final project\obj\x86\Debug\Final_project.
 F:\Computer Science\SP1\Final project\Final project\obj\x86\Debug\Final_project.Form2.resources
 F:\Computer Science\SP1\Final project\Final project\obj\x86\Debug\Final_project.Resources.resources
 F:\Computer Science\SP1\Final project\Final project\obj\x86\Debug\Final project.vbproj.GenerateResource.Cache
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\obj\x86\Debug\Final project.exe
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\obj\x86\Debug\Final project.xml
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\obj\x86\Debug\Final project.pdb
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\bin\Debug\Final project.exe
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\bin\Debug\Final project.pdb
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\bin\Debug\Final project.xml
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\obj\x86\Debug\Final_project.Form1.resources
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\obj\x86\Debug\Final_project.Form2.resources
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\obj\x86\Debug\Final_project.Resources.resources
+F:\Leees-Arkanoid-master\Leees-Arkanoid-master\Final project\Final project\obj\x86\Debug\Final project.vbproj.GenerateResource.Cache

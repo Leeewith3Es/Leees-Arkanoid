@@ -329,7 +329,7 @@ Partial Class Form2
         '
         'picBall
         '
-        Me.picBall.BackColor = System.Drawing.Color.Black
+        Me.picBall.BackColor = System.Drawing.Color.White
         Me.picBall.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.picBall.Location = New System.Drawing.Point(393, 406)
         Me.picBall.Name = "picBall"
@@ -377,7 +377,7 @@ Partial Class Form2
         '
         'picBlock28
         '
-        Me.picBlock28.BackColor = System.Drawing.Color.Black
+        Me.picBlock28.BackColor = System.Drawing.Color.Red
         Me.picBlock28.Location = New System.Drawing.Point(665, 180)
         Me.picBlock28.Name = "picBlock28"
         Me.picBlock28.Size = New System.Drawing.Size(100, 50)
@@ -386,7 +386,7 @@ Partial Class Form2
         '
         'picBlock27
         '
-        Me.picBlock27.BackColor = System.Drawing.Color.Black
+        Me.picBlock27.BackColor = System.Drawing.Color.Red
         Me.picBlock27.Location = New System.Drawing.Point(559, 180)
         Me.picBlock27.Name = "picBlock27"
         Me.picBlock27.Size = New System.Drawing.Size(100, 50)
@@ -395,7 +395,7 @@ Partial Class Form2
         '
         'picBlock26
         '
-        Me.picBlock26.BackColor = System.Drawing.Color.Black
+        Me.picBlock26.BackColor = System.Drawing.Color.Red
         Me.picBlock26.Location = New System.Drawing.Point(453, 180)
         Me.picBlock26.Name = "picBlock26"
         Me.picBlock26.Size = New System.Drawing.Size(100, 50)
@@ -404,7 +404,7 @@ Partial Class Form2
         '
         'picBlock25
         '
-        Me.picBlock25.BackColor = System.Drawing.Color.Black
+        Me.picBlock25.BackColor = System.Drawing.Color.Red
         Me.picBlock25.Location = New System.Drawing.Point(347, 180)
         Me.picBlock25.Name = "picBlock25"
         Me.picBlock25.Size = New System.Drawing.Size(100, 50)
@@ -413,7 +413,7 @@ Partial Class Form2
         '
         'picBlock24
         '
-        Me.picBlock24.BackColor = System.Drawing.Color.Black
+        Me.picBlock24.BackColor = System.Drawing.Color.Red
         Me.picBlock24.Location = New System.Drawing.Point(241, 180)
         Me.picBlock24.Name = "picBlock24"
         Me.picBlock24.Size = New System.Drawing.Size(100, 50)
@@ -422,7 +422,7 @@ Partial Class Form2
         '
         'picBlock23
         '
-        Me.picBlock23.BackColor = System.Drawing.Color.Black
+        Me.picBlock23.BackColor = System.Drawing.Color.Red
         Me.picBlock23.Location = New System.Drawing.Point(135, 180)
         Me.picBlock23.Name = "picBlock23"
         Me.picBlock23.Size = New System.Drawing.Size(100, 50)
@@ -431,7 +431,7 @@ Partial Class Form2
         '
         'picBlock22
         '
-        Me.picBlock22.BackColor = System.Drawing.Color.Black
+        Me.picBlock22.BackColor = System.Drawing.Color.Red
         Me.picBlock22.Location = New System.Drawing.Point(29, 180)
         Me.picBlock22.Name = "picBlock22"
         Me.picBlock22.Size = New System.Drawing.Size(100, 50)
@@ -477,7 +477,7 @@ Partial Class Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.SystemColors.Highlight
+        Me.BackColor = System.Drawing.Color.Black
         Me.ClientSize = New System.Drawing.Size(791, 481)
         Me.Controls.Add(Me.lblPoints)
         Me.Controls.Add(Me.picDificultyTennis)
