@@ -628,7 +628,7 @@ picBlock28.Left + picBlock28.Width >= picBall.Left And picBall.Visible = True An
         If picBall.Bottom >= Me.ClientRectangle.Bottom And picBall.Visible = True Then
             tmrMain.Enabled = False
             My.Computer.Audio.Play(My.Resources.Roblox_Death_Sound_Effect1, AudioPlayMode.Background)
-            Process.Start("https://nate.xera.ca/6b9t/")
+            Process.Start("https://www.xera.ca")
             PlayAgain()
         End If
 
